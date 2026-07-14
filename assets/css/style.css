@@ -1,0 +1,10 @@
+/* Small custom additions that sit on top of the Tailwind CDN utility classes.
+   Mirrors the non-utility rules that used to live in src/app/globals.css. */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
